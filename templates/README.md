@@ -37,13 +37,13 @@
 *If you use this project in your research, please cite it as described in [CITATION.cff](CITATION.cff). Add the related publication and DOI here when available.*
 
 ## Contributing
-See [CONTRIBUTING.md](Contributing.md).
+See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Governance
 
 ## License
 
-See [LICENSE](LICENSE).
+See [LICENSE](LICENSE.md).
 
 ## Acknowledgements
 
