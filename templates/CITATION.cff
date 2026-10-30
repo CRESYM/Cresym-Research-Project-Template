@@ -1,0 +1,20 @@
+# Replace all bracketed placeholders before using this file in a project.
+# List the agreed software authors; add further author entries as needed.
+# Uncomment optional fields only when accurate values are available.
+
+cff-version: 1.2.0
+message: "If you use this software in your research work, please consider citing it using the metadata below."
+type: software
+title: "[Project Name]"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+
+#repository-code: "https://github.com/cresym/[project-name]"
+#keywords:
+# - "[Research domain]"
+#version: "[Release version]"
+#date-released: YYYY-MM-DD
+#doi: "[Software DOI, if available]"
+#license: "[SPDX identifier of the adopted software license]"
+
