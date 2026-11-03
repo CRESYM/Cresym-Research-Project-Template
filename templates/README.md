@@ -24,7 +24,7 @@
 
 ## Usage
 *Describe a typical workflow, including:*
-- *Require inputs and their formats*
+- *Required inputs and their formats*
 - *Main commands or configuration options*
 - *Produced outputs and how to interpret them*
 
@@ -34,14 +34,14 @@
 *Describe*
 - *The data needed to run the project and where to obtain it.*
 - *The source and version of the data.*
-- *Any example data included in the respository.*
+- *Any example data included in the repository.*
 - *The license and attribution requirements for the data.*
 - *Any access restrictions or steps needed to request access.*
 
 *Do not commit confidential data or very large datasets.*
 
 ## Documentation
-*Link to available documentation in the 'docs/' folder or an external site, covering the following where applicabe:.*
+*Link to available documentation in the 'docs/' folder or an external site, covering the following where applicabe:*
 - *Architecture and design*
 - *Development instructions*
 - *Examples and tutorials*
@@ -60,7 +60,7 @@ See [CONTRIBUTING](CONTRIBUTING.md) for instructions.
 
 ## Governance
 See [GOVERNANCE](GOVERNANCE.md) for project roles and decision-making.
-*Idenify the current maintainers or link to Maintainers.md when available. Use agreed public contact details.*
+*Identify the current maintainers or link to MAINTAINERS.md when available. Use agreed public contact details.*
 
 ## License
 *State the license applicable to the project and link to the file containing its full text.*

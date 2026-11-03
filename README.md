@@ -25,7 +25,8 @@ templates/
 |-- GOVERNANCE.md
 |-- MAINTAINERS.md (*to be developed*)
 |-- CODE_OF_CONDUCT.md
-|-- LICENSING.md
+|-- LICENSE_GUIDANCE.md
+|-- CITATION.cff
 |
 |-- docs/                   # Project documentation
 |   |-- architecture.md

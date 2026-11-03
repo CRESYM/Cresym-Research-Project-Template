@@ -10,11 +10,11 @@ authors:
   - family-names: "[Family name]"
     given-names: "[Given name]"
 
-#repository-code: "https://github.com/cresym/[project-name]"
-#keywords:
+# repository-code: "https://github.com/cresym/[project-name]"
+# keywords:
 # - "[Research domain]"
-#version: "[Release version]"
-#date-released: YYYY-MM-DD
-#doi: "[Software DOI, if available]"
-#license: "[SPDX identifier of the adopted software license]"
+# version: "[Release version]"
+# date-released: YYYY-MM-DD
+# doi: "[Software DOI, if available]"
+# license: "[SPDX identifier of the adopted software license]"
 
